@@ -1,0 +1,4 @@
+3
+Car BMW E34 2 black 5
+Bus Merc 123 63 100 Moscow
+Motorcycle BMW 150 1 123 Highway
